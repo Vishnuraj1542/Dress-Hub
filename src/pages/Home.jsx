@@ -1,6 +1,6 @@
 export default function Home(){
     return(
-        <div className='bg-dark '>
+        <div className='bg-dark h-screen'>
         <h1 className='text-center'>This is Homepage</h1>
         <p className="text-white">1914 translation by H. Rackham
 "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, 
