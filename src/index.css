@@ -2,9 +2,11 @@
 
 
 @theme {
-  --color-primary:#5653af;
-  --color-secondary:#7e83d6;
-  --color-background:#f1f5fc;
-  --color-highlight:#97a1e2;
+  --color-primary:##9eb79e;
+  --color-secondary:#84a185;
+  --color-background:#537655;
+  --color-highlight:#c6d5c5;
+  --color-letter:#c6d5c5;
+  --color-fade:#3e5d40;
 }
 
