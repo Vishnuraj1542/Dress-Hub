@@ -1,5 +1,9 @@
+import Details from "../components/Detail"
 export default function WishList(){
     return(
-        <h1>Items You Liked</h1>
+        <div>
+            <Details/>
+        </div>
+
     )
 }
